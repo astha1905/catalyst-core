@@ -1,0 +1,26 @@
+src/web-router/components/MetaTag.jsx
+  s_a36f49b1c9337b::t_3c316448ff211b 4,14,18,22-23
+src/vite/vite.config.client.js
+  s_a36f49b1c9337b::t_3fa3946df977aa 74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1dfca23ad912133473ace669b91b630e4a537a9f",
+  "prompts": {},
+  "humans": {
+    "h_dfddb6bc9d199c": {
+      "author": "asthadhakar <astha.dhakar@1mg.com>"
+    }
+  },
+  "sessions": {
+    "s_a36f49b1c9337b": {
+      "agent_id": {
+        "tool": "DeputyDev",
+        "id": "487136",
+        "model": "AUTO"
+      },
+      "human_author": "asthadhakar <astha.dhakar@1mg.com>"
+    }
+  }
+}
