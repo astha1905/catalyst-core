@@ -1,0 +1,14 @@
+src/vite/vite.config.client.js
+  h_dfddb6bc9d199c 73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ab992491955f0d92643e37e7991189f708941b8a",
+  "prompts": {},
+  "humans": {
+    "h_dfddb6bc9d199c": {
+      "author": "asthadhakar <astha.dhakar@1mg.com>"
+    }
+  }
+}
