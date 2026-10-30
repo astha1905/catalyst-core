@@ -1,0 +1,14 @@
+src/web-router/components/MetaTag.jsx
+  h_dfddb6bc9d199c 1,23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0fb105b89afe6a3afac38d5b72f6a2b953b6e4de",
+  "prompts": {},
+  "humans": {
+    "h_dfddb6bc9d199c": {
+      "author": "asthadhakar <astha.dhakar@1mg.com>"
+    }
+  }
+}
