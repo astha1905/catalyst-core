@@ -1,0 +1,27 @@
+packages/catalyst-core/src/server/renderer/document/Head.tsx
+  s_4aa2903fa0bc46::t_540bb3908f9d92 33-36
+packages/catalyst-core/src/web-router/components/MetaTag.tsx
+  s_4aa2903fa0bc46::t_8232246b6387ab 20
+  s_4aa2903fa0bc46::t_aed83dc792f0a6 23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "49136de3a53c0d6c4fee43437390474556f17870",
+  "prompts": {},
+  "humans": {
+    "h_dfddb6bc9d199c": {
+      "author": "asthadhakar <astha.dhakar@1mg.com>"
+    }
+  },
+  "sessions": {
+    "s_4aa2903fa0bc46": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ff15edf3-f915-4021-ae63-a162334ea359",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "asthadhakar <astha.dhakar@1mg.com>"
+    }
+  }
+}
