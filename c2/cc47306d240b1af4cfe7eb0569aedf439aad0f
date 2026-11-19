@@ -1,0 +1,19 @@
+src/web-router/components/MetaTag.jsx
+  s_4aa2903fa0bc46::t_52afd5f13e7d90 8,10,28,37-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c2cc47306d240b1af4cfe7eb0569aedf439aad0f",
+  "prompts": {},
+  "sessions": {
+    "s_4aa2903fa0bc46": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ff15edf3-f915-4021-ae63-a162334ea359",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "asthadhakar <astha.dhakar@1mg.com>"
+    }
+  }
+}
