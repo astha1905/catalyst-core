@@ -1,0 +1,19 @@
+packages/catalyst-core/test/server/Head.test.ts
+  s_5343b1c16c4b3f::t_dcebd929d2483d 1-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "76014f03aa7c306cd3f7c461edad6e222aece0a8",
+  "prompts": {},
+  "sessions": {
+    "s_5343b1c16c4b3f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f58ad0d0-180b-4d00-a09f-8f38de4aa711",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "asthadhakar <astha.dhakar@1mg.com>"
+    }
+  }
+}
