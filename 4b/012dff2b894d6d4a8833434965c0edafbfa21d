@@ -1,0 +1,20 @@
+packages/catalyst-core/src/web-router/components/MetaTag.test.jsx
+  s_4aa2903fa0bc46::t_a0752933a00aa9 109-139,169-171,173-182,188,197-198,203,213-216,224,235,238-239,248,250,284,292
+  s_4aa2903fa0bc46::t_8e890c577b803a 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4b012dff2b894d6d4a8833434965c0edafbfa21d",
+  "prompts": {},
+  "sessions": {
+    "s_4aa2903fa0bc46": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ff15edf3-f915-4021-ae63-a162334ea359",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "asthadhakar <astha.dhakar@1mg.com>"
+    }
+  }
+}
